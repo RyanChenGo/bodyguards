@@ -3,37 +3,37 @@
     {
       "level": "Primaire",
       "name": "Abou Zeid John Maron",
-      "number": 001,
+      "number": 1,
       "salary": "10 sour patches per day"
     },
     {
       "level": "Secondaire important",
       "name": "Zakary Bellaouane",
-      "number": 002,
+      "number": 2,
       "salary": "4 sour patches per day"
     },
     {
       "level": "Remplaçant",
       "name": "Karim Roussami",
-      "number": 003,
+      "number": 3,
       "salary": "1 sour patch per day"
     },
     {
       "level": "Secondaire",
       "name": "Harry",
-      "number": 004,
+      "number": 4,
       "salary": "2 sour patches per day"
     },
     {
       "level": "Secondaire important",
       "name": "Yifan",
-      "number": 005,
+      "number": 5,
       "salary": "4 sour patches per day"
     },
     {
       "level": "Secondaire important",
       "name": "Miaochen Shen",
-      "number": 006,
+      "number": 6,
       "salary": "2 sour patches per day"
     }
   ]
