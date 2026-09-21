@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "level": "Primaire",
+      "name": "Abou Zeid John Maron",
+      "number": 001,
+      "salary": "10 sour patches per day"
+    },
+    {
+      "level": "Secondaire important",
+      "name": "Zakary Bellaouane",
+      "number": 002,
+      "salary": "4 sour patches per day"
+    },
+    {
+      "level": "Remplaçant",
+      "name": "Karim Roussami",
+      "number": 003,
+      "salary": "1 sour patch per day"
+    },
+    {
+      "level": "Secondaire",
+      "name": "Harry",
+      "number": 004,
+      "salary": "2 sour patches per day"
+    },
+    {
+      "level": "Secondaire important",
+      "name": "Yifan",
+      "number": 005,
+      "salary": "4 sour patches per day"
+    },
+    {
+      "level": "Secondaire important",
+      "name": "Miaochen Shen",
+      "number": 006,
+      "salary": "2 sour patches per day"
+    }
+  ]
+}
