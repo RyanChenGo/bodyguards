@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "email": "john-primaire@ryanbodyguards.qc.ca",
+      "password": "johnabouzeid"
+    },
+    {
+      "username": "zakary",
+      "email": "zakary-secondaireimportant@ryanbodyguards.qc.ca",
+      "password": "zakarybellaouane"
+    },
+    {
+      "username": "karim",
+      "email": "karim-remplacant@ryanbodyguards.qc.ca",
+      "passwords": "karimroussami"
+    },
+    {
+      "username": "harry",
+      "email": "harry-secondaire@ryanbodyguards.qc.ca",
+      "passwords": "harry"
+    },
+    {
+      "username": "yifan",
+      "email": "efan-secondaireimportant@ryanbodyguards.qc.ca",
+      "passwords": "yifan"
+    },
+    {
+      "username": "miaochen",
+      "email": "miaochen-secondaireimportant@ryanbodyguards.qc.ca",
+      "passwords": "miaochenshen"
+    }
+  ]
+}
